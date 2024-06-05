@@ -1,0 +1,134 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/closed/wall/f13/vault,
+/area/shuttle/bos_foyer)
+"c" = (
+/turf/open/floor/plasteel/dark,
+/area/shuttle/bos_foyer)
+"e" = (
+/obj/machinery/computer/shuttle/bos{
+	name = "USA Base Lockdown Override";
+	base_ladder_id = "enclave_base"
+	},
+/turf/open/floor/plasteel/dark,
+/area/shuttle/bos_foyer)
+"h" = (
+/turf/template_noop,
+/area/template_noop)
+"i" = (
+/obj/machinery/door/airlock/hatch{
+	req_access_txt = "134"
+	},
+/turf/open/floor/plasteel/dark,
+/area/shuttle/bos_foyer)
+"j" = (
+/obj/machinery/door/airlock/hatch{
+	req_access_txt = "134"
+	},
+/obj/docking_port/mobile/elevator/bos,
+/turf/open/floor/plasteel/dark,
+/area/shuttle/bos_foyer)
+"r" = (
+/obj/structure/chair/office{
+	dir = 1
+	},
+/turf/open/floor/plasteel/dark,
+/area/shuttle/bos_foyer)
+"z" = (
+/obj/structure/table,
+/turf/open/floor/plasteel/dark,
+/area/shuttle/bos_foyer)
+"A" = (
+/obj/machinery/light{
+	dir = 8;
+	light_color = "#e8eaff"
+	},
+/turf/open/floor/plasteel/dark,
+/area/shuttle/bos_foyer)
+"E" = (
+/obj/structure/table,
+/obj/machinery/computer/terminal/stored_password/enclave{
+	name = "Lockdown Computer"
+	},
+/turf/open/floor/plasteel/dark,
+/area/shuttle/bos_foyer)
+"J" = (
+/obj/machinery/light{
+	dir = 4;
+	light_color = "#c1caff"
+	},
+/turf/open/floor/plasteel/dark,
+/area/shuttle/bos_foyer)
+
+(1,1,1) = {"
+a
+j
+a
+a
+a
+a
+"}
+(2,1,1) = {"
+a
+c
+a
+h
+h
+a
+"}
+(3,1,1) = {"
+a
+c
+a
+a
+i
+a
+"}
+(4,1,1) = {"
+a
+c
+A
+c
+c
+a
+"}
+(5,1,1) = {"
+a
+z
+c
+c
+c
+a
+"}
+(6,1,1) = {"
+a
+E
+r
+c
+c
+a
+"}
+(7,1,1) = {"
+a
+z
+c
+c
+c
+a
+"}
+(8,1,1) = {"
+a
+e
+J
+c
+c
+a
+"}
+(9,1,1) = {"
+a
+a
+a
+a
+a
+a
+"}
