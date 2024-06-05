@@ -1,5 +1,7 @@
 ## Space Fantasy (Working Title)
 Based and maintained from Citadel Station by way of Desert Rose, Fortuna, The Wasteland, Afterglow, and Auld Lang Syne.
+* **Discord:** <https://discord.gg/q4WvmCUnyZ>
+* **Legacy Code:** <https://github.com/Monsters-and-Mazes/MonstersAndMazes13>
 
 [![CI Suite](https://isitmaintained.com/project/sunset-wasteland/sunset-wasteland/actions/workflows/ci_suite.yml/badge.svg?branch=master&event=push)](https://isitmaintained.com/project/sunset-wasteland/sunset-wasteland/actions/workflows/ci_suite.yml)
 
